@@ -8,9 +8,9 @@ const App = () => {
     <div className="app">
       <NavBar />
       <div className="card-body">
-        <CardBody titulo="Card 01" conteudo="Conteudo card1" />
-        <CardBody titulo="Card 02" conteudo="Conteudo card2" />
-        <CardBody titulo="Card 03" conteudo="Conteudo card3" />
+        <CardBody titulo="Card 01" conteudo="Flavio Mota da Cruz" />
+        <CardBody titulo="Card 02" conteudo="Flavio Mota da Cruz" />
+        <CardBody titulo="Card 03" conteudo="Flavio Mota da Cruz" />
       </div>
 
       <Footer />
